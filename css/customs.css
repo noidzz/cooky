@@ -378,3 +378,59 @@ font-size: 12px;
 .detail-category {
 	margin-bottom: 10px;
 }
+
+.title-top-chef-center {
+	margin-top: 30px;
+	width: 100%;
+	text-align: center;
+}
+
+.content-top-chef {
+	height: 190px;
+}
+
+.top-right{
+	width: 140px;
+	height: 157px;
+	float: left;
+	padding: 15px;
+}
+
+.img-top {
+	width: 80px;
+	height: 80px;
+}
+
+.img-top {
+	margin: auto;
+}
+
+.top-left{
+	width: 140px;
+	height: 157px;
+	float: left;
+	padding: 15px;
+}
+
+.profile {
+	margin-top: 10px;
+	text-align: center;
+	color: #b4b4b4;
+	font-size: 12px;
+}
+
+.profile a {
+	color: #333;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.hightlight-top-chef {
+	color: red;
+}
+
+.profile-stat {
+	text-align: center;
+	color: #b4b4b4;
+	font-size: 12px;
+}
