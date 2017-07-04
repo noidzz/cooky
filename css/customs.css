@@ -135,7 +135,7 @@ img {
 .work-item {
 	width: 100%;
 	height: 500px;
-	background-color: #BCFEFF;
+	/*background-color: #BCFEFF;*/
 }
 
 .work-item-top {
@@ -233,4 +233,29 @@ font-size: 12px;
 .detail-info li {
 	color: #555;
 	font-size: 12px;
+	padding: 0px 5px;   
+	padding-top: 0px;
+}
+
+.detail-info {
+	margin-bottom: 5px;
+}
+
+.hr-detail-info {
+	margin: 10px 0px;
+}
+
+.box-img-detail {
+	width: 87.5px;
+	float: left;	
+}
+
+.img-detail {
+	width: 80px;
+	height: 80px;
+	margin: auto;
+}
+
+.boder-img-detail {
+	border-radius: 8px;
 }
