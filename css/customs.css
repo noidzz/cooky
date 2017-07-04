@@ -347,3 +347,34 @@ font-size: 12px;
 .content-tip2 {
 	padding-top: 20px;
 }
+
+.load-more {
+	margin: 25px 0px;
+	width: 570px;
+	position: relative;
+}
+
+.icon-load-more {
+	color: red;
+}
+
+.category {
+	height: 310px;
+	background-color: #f4f4f4;
+	margin-top: 20px;
+	color: #333;
+	font-size: 14px;
+}
+
+.title-category {
+	margin-top: 20px;
+}
+
+.hightlight-category {
+	color: red;
+	font-size: 12px;
+}
+
+.detail-category {
+	margin-bottom: 10px;
+}
