@@ -1,3 +1,7 @@
+body {
+	font-family: Helvetica;
+}
+
 .menu-top {
 	width: 100%;
 	height: 23px;
@@ -170,4 +174,63 @@ font-size: 14px;
 margin-bottom: 0;
 color: #b2b2b2;
 font-size: 12px;
+}
+
+.hightlight-user-more {
+	color: red;
+	font-weight: bold;
+}
+
+.img-feed {
+	margin-top: 10px;
+}
+
+.feed-name h3.title {
+	margin-top: 15px;
+	font-family: inherit;
+	font-weight: 500;
+	font-size: 20px;
+	color: #333;
+}
+
+.text-orange {
+	color: #ffa500;
+}
+
+.ul-user-star li {   
+	padding: 0px 5px;   
+	padding-top: 0px;
+	font-size: 14px;
+}
+
+.ul-user-star {
+	margin-bottom: 0;
+}
+
+.user-star {
+	margin-top: -5px;
+}
+
+.content-feed {
+	height: 72px;
+	color: #555;
+	padding: 5px 10px;
+	font-style: italic;
+	font-size: 13px;
+}
+
+.color-detail-info {
+	color: red;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.stats-ico {
+	color: #555;
+	font-size: 12px;
+}
+
+.detail-info li {
+	color: #555;
+	font-size: 12px;
 }
