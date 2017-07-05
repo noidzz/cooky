@@ -37,7 +37,7 @@ function auto_slide() {
   	slide_index_auto = 1
   }
   x[slide_index_auto-1].style.display = "block"; 
-  setTimeout(auto_slide, 2000);
+  setTimeout(auto_slide, 4000);
 }
 
 auto_slide();
