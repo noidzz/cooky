@@ -2,6 +2,8 @@ body {
 	font-family: Helvetica;
 }
 
+/*Menu*/
+
 .menu-top {
 	width: 100%;
 	height: 23px;
@@ -69,6 +71,47 @@ li {
 	height: 40px;
 	background-color: green;
 }
+
+.search-web {
+	height: 34px;
+	width: 500px;
+	margin: 9px 0px;
+}
+
+.icon-search-web {
+	color: red;
+}
+
+.input-search-web {
+	font-size: 14px;
+	opacity: 0.9;
+}
+
+.socials {
+	margin-left: 65px;
+	margin-top: 10px;
+	line-height: 0;
+}
+
+.img-kitchen {
+	border-radius: 3px;
+	width: 84px;
+	height: 32px;
+	border-width: 2px;
+	border-color: #fff;
+	border-style: solid;
+	margin-top: -5px;
+}
+
+.socials li {
+	font-size: 32px;
+	padding: 0px 5px;
+}
+
+.icon-socails {
+	color: #fff;
+}
+
 
 /* Content */
 .content {
@@ -557,5 +600,5 @@ color: #333;
 	width: 120px;
 	height: 36px;
 	margin-left: 50px;
-	margin-top: 10px;
+	margin-top: 5px;
 }
