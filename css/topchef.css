@@ -1,0 +1,75 @@
+.top-chef-content {
+	background-color: #f4f4f4;
+	width: 100%;
+	height: 2600px;
+}
+
+.color-top-chef {
+	color: #b71c1c;
+	font-weight: bold;
+}
+
+.title-top-chef {
+	padding-top: 50px;
+	/*padding-bottom: 20px;*/
+}
+
+.line-title h1 {
+	font-size: 30px;
+}
+
+.col-half-offset{
+  margin-left:4.166666667%
+}
+
+.box-top-chef {
+	width: 212px;
+	height: 250px;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CBCCCA;
+	background-color: #fff;
+}
+
+.img-box-top-chef {
+	height: 120px;
+	width: 120px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.profile-top-chef {
+	text-align: center;
+}
+
+.name-top-chef h6 {
+	font-weight: bold;
+	font-size: 16px;
+	color: #555;
+}	
+
+.info-follow-top-chef {
+	margin-top: -5px;
+	font-size: 12px;
+	color: #b2b2b2;
+}
+
+.color-follow {
+	color: #000;
+}
+
+.btn-follow-chef {
+	border: 1px solid;
+	width: 50px;
+	height: 30px;
+}
+
+.follow-chef {
+	margin-top: 5px;
+}
+
+.list-top-chef {
+	margin-top: 20px;
+}
