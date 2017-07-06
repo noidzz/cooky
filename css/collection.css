@@ -1,0 +1,154 @@
+.top-collection {
+	width: 100%;
+	height: 100%;
+	padding-top: 20px;
+	padding-bottom: 100px;
+	background-color: #f4f4f4;
+}
+
+.category {
+	margin-top: 0px;
+}
+
+.title-top-collection h1 {
+	color: #333;
+	font-size: 24px;
+}
+
+.title-top {
+	width: 100%;
+}
+
+.img-collection {
+	width: 360px;
+	height: 225px;
+}
+
+.content-top-collection {
+	margin-top: 20px;
+}
+
+.title-header-collection h2 {
+	color: #333;
+	font-size: 16px;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+
+.item-collection {
+	background-color: #fff;
+	width: 360px;
+	height: 310px;
+}
+
+.content-header-collection {
+	margin-left: 10px;
+	margin-top: 15px;
+	color: #9e9e9e;
+	font-size: 12px;
+	width: 70%;
+	float: left;
+}
+
+.btn-save {
+	float: left;
+	margin-bottom: 10px;
+	/*margin-left: 10px;*/
+}
+
+.btn-pr-save {
+	text-align: center;
+	margin-top: 5px;
+	margin-left: 15px;
+}
+
+.btn-pr-save:hover {
+    color: #fff;
+    background-color: #b71c1c;
+    border-color: #b71c1c;
+}
+
+.btn-more-collection {
+	width: 100%;
+	height: 50px;
+	background-color: #fff;
+}
+
+.btn-center-collection-more {
+	color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	margin-left: 10px;
+}
+
+.title-top-collection-more {
+	width: 100%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	height: 50px;
+}
+
+.item-collection-2 {
+	margin-left: 10px;
+}
+
+.item-collection-3 {
+	margin-left: 20px;
+}
+
+.item-more {
+	height: 400px;
+	width: 270px;
+}
+
+.item-collection-more {
+	margin-top: 50px;
+}
+
+.title-top-item-more h3 {
+	color: #333;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.title-top-item-more {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.top-item-more {
+	height: 400px;
+	background-color: #fff;
+}
+
+.img-top-item-more {
+	width: 238px;
+	height: 238px;
+	margin: auto;
+}
+
+.img-img-top-item {
+	border-radius: 5px;
+}
+
+.icon-item-more {
+	width: 72px;
+	height: 72px;
+}
+
+.img-more-item {
+	margin-top: 10px;
+}
+
+.img-img-icon-item {
+	border-radius: 5px;
+}
+
+.img-img-icon-item1 {
+	margin-left: 30px;
+}
+
+.img-img-icon-item2 {
+	margin-left: 15px;
+}
